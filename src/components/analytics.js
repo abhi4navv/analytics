@@ -9,7 +9,7 @@ import Col from "react-bootstrap/Col";
 import ToggleButtonGroup from "react-bootstrap/ToggleButtonGroup"
 import ToggleButton from "react-bootstrap/ToggleButton"
 import Card from "react-bootstrap/Card";
-import loaderImg from "../assets/img/loader2.gif";
+//import loaderImg from "../assets/img/loader2.gif";
 
 
   
